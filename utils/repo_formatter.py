@@ -1,0 +1,34 @@
+import os
+import argparse
+
+def lowercase_folders(path):
+    # Example Usage: python repo_formatter.py lowercase_folders ../assignments/
+    count = 0
+    for folder in os.listdir(path):
+        count += 1
+        full_path = os.path.join(path, folder)
+        if os.path.isdir(full_path):
+            new_name = folder.lower()
+            new_full_path = os.path.join(path, new_name)
+            if new_full_path != full_path:
+                os.rename(full_path, new_full_path)
+    print(f"Total folders processed: {count}")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Run a function on a folder")
+    parser.add_argument("function", help="Function name to run")
+    parser.add_argument("path", help="Path to folder")
+    args = parser.parse_args()
+
+    # Map function names to actual functions
+    functions = {
+        "lowercase_folders": lowercase_folders,
+        # Add more mappings here if you add more functions
+    }
+
+    if args.function in functions:
+        functions[args.function](args.path)
+    else:
+        print(f"Function '{args.function}' not found. Available: {list(functions.keys())}")
+

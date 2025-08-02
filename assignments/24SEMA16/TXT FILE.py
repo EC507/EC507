@@ -1,5 +1,5 @@
 a = []
-for i in range(10):
+for i in range(1000):
     a.append(i)
 print(a)
 

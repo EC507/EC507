@@ -14,3 +14,7 @@ https://www.python.org/downloads/
 IMPORTANT:
 Make yourself a collaborator for this repo.
 Click on Settings->Collaborators and Teams->Add People (on Manage Access)
+
+
+# END-GOAL
+Create you own data science toolkit
