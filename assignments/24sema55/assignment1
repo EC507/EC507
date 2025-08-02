@@ -1,0 +1,25 @@
+Assignment 1: Module 1 Analysis
+
+This assignment assesses your understanding of Module 1 concepts. It consists of two parts:
+
+1. Analyze the provided toy problem and recommend two action items based on your findings.
+2. Analyze a simulated problem, providing a detailed analysis and two actionable recommendations.
+
+Instructions:
+- Submit your solution as a Markdown file or Jupyter notebook named `unique_id_assignment1.md` or `unique_id_assignment1.ipynb`. Your unique ID is provided below.
+- Document your methodology and insights clearly.
+- For Part 2, generate a dataset using the `generate_data.py` script as a reference.
+- Include all code and analysis in your submission.
+
+For questions, contact: sunit_vf@uohyd.ac.in
+
+**Simulated Problem**
+
+
+
+
+Title: E-Commerce Revenue Forecast
+
+Description: Generate daily sales data for 1 year for an online store. Let daily number of orders follow a Poisson distribution and average order value follow a normal distribution. Compute monthly revenues and identify months with unusually high or low performance.
+
+Unique ID: a0dae9cb-e403-4e38-8a79-214d6aa9ca8f

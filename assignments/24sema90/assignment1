@@ -1,0 +1,25 @@
+Assignment 1: Module 1 Analysis
+
+This assignment assesses your understanding of Module 1 concepts. It consists of two parts:
+
+1. Analyze the provided toy problem and recommend two action items based on your findings.
+2. Analyze a simulated problem, providing a detailed analysis and two actionable recommendations.
+
+Instructions:
+- Submit your solution as a Markdown file or Jupyter notebook named `unique_id_assignment1.md` or `unique_id_assignment1.ipynb`. Your unique ID is provided below.
+- Document your methodology and insights clearly.
+- For Part 2, generate a dataset using the `generate_data.py` script as a reference.
+- Include all code and analysis in your submission.
+
+For questions, contact: sunit_vf@uohyd.ac.in
+
+**Simulated Problem**
+
+
+
+
+Title: Classroom Performance Analysis
+
+Description: Simulate the marks of 50 students in 5 different subjects. Assume marks follow a normal distribution with varying means and standard deviations for each subject. Identify the top 5% of students by average marks and compare their variance in performance to the bottom 5%.
+
+Unique ID: 4af7466b-3f90-419f-9a43-ab2d473a8bf5
