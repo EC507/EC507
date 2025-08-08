@@ -1,3 +1,11 @@
 /assignments_master
 /__pycache__
 **/__pycache__
+.DS_Store
+/.DS_Store
+**/.DS_Store
+*/.DS_Store
+.venv
+/.venv
+**/.venv
+students.csv
