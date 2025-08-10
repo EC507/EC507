@@ -4,14 +4,18 @@ import argparse
 def lowercase_folders(path):
     # Example Usage: python repo_formatter.py lowercase_folders ../assignments/
     count = 0
-    for folder in os.listdir(path):
+    folders = [f for f in os.listdir(path) if os.path.isdir(os.path.join(path, f))]
+    # Sort in reverse to avoid issues with renaming
+    for folder in sorted(folders, reverse=True):
         count += 1
         full_path = os.path.join(path, folder)
-        if os.path.isdir(full_path):
-            new_name = folder.lower()
-            new_full_path = os.path.join(path, new_name)
-            if new_full_path != full_path:
-                os.rename(full_path, new_full_path)
+        new_name = folder.lower()
+        new_full_path = os.path.join(path, new_name)
+        if new_full_path != full_path:
+            if os.path.exists(new_full_path):
+                print(f"Skipping '{folder}' because '{new_name}' already exists.")
+                continue
+            os.rename(full_path, new_full_path)
     print(f"Total folders processed: {count}")
 
 
