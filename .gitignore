@@ -1,6 +1,9 @@
 /assignments_master
 /__pycache__
 **/__pycache__
+<<<<<<< HEAD
+assignments/24SEMA05/notebook.ipynb
+=======
 .DS_Store
 /.DS_Store
 **/.DS_Store
@@ -8,3 +11,4 @@
 .venv
 /.venv
 **/.venv
+>>>>>>> origin/main

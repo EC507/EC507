@@ -22,4 +22,8 @@ Title: E-Commerce Revenue Forecast
 
 Description: Generate daily sales data for 1 year for an online store. Let daily number of orders follow a Poisson distribution and average order value follow a normal distribution. Compute monthly revenues and identify months with unusually high or low performance.
 
+<<<<<<< HEAD
+Unique ID: a0dae9cb-e403-4e38-8a79-214d6aa9ca8f
+=======
 Unique ID: b3c01e8d-7cc8-4e8b-a30e-793791c2810f
+>>>>>>> origin/main

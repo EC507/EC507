@@ -12,5 +12,14 @@ https://code.visualstudio.com/
 https://www.python.org/downloads/
 
 IMPORTANT:
+<<<<<<< HEAD
+Make yourself a collaborator for this repo.
+Click on Settings->Collaborators and Teams->Add People (on Manage Access)
+
+
+# END-GOAL
+Create you own data science toolkit
+=======
 I will be uploading some short videos for you under course_materials/videos. 
 You can check that out.
+>>>>>>> origin/main

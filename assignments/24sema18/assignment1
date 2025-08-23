@@ -22,4 +22,8 @@ Title: Cinema Ticket Sales
 
 Description: Generate daily ticket sales for multiple movies over 2 months. Use Poisson distribution for attendance. Identify movies with most consistent sales.
 
+<<<<<<< HEAD
+Unique ID: 1f496a4c-21ac-46b2-9cb8-cf9db30cee40
+=======
 Unique ID: 001836f5-bce0-4e1c-9837-775fc8060fca
+>>>>>>> origin/main

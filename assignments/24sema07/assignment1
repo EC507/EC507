@@ -22,4 +22,8 @@ Title: Sports Tournament Simulation
 
 Description: Simulate the scores of 20 basketball teams across a season of 30 games each. Assume team strengths differ and influence scoring using normal distributions with different means. Rank teams and find the correlation between average score per game and win rate.
 
+<<<<<<< HEAD
+Unique ID: 5e47a1ae-2f19-4dc8-9c07-60d48c4fbba9
+=======
 Unique ID: 07cf22dd-04eb-44aa-9a8c-bf6fce46eedb
+>>>>>>> origin/main

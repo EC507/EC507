@@ -22,4 +22,8 @@ Title: Customer Lifetime Value
 
 Description: Simulate 500 customers with number of purchases following a Poisson distribution and purchase amounts following an exponential distribution. Compute estimated lifetime values and identify the top 5%.
 
+<<<<<<< HEAD
+Unique ID: d1c81a77-35b3-402b-b245-e9550d876f9e
+=======
 Unique ID: 6fc0187d-cdc0-4ee4-82d4-99c9e891e0aa
+>>>>>>> origin/main

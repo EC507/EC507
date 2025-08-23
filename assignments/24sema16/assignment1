@@ -22,4 +22,8 @@ Title: Fake Taxi Fare Data
 
 Description: Simulate taxi trip distances and fares. Distance follows an exponential distribution; fares depend on distance plus noise. Identify distance ranges with highest average fare per km.
 
+<<<<<<< HEAD
+Unique ID: 47964e2d-c1b2-453d-ba65-1967f3e247da
+=======
 Unique ID: b2099eb9-d2e7-45a9-9578-ada1a986403f
+>>>>>>> origin/main

@@ -22,4 +22,8 @@ Title: Delivery Service Optimization
 
 Description: Generate package delivery times for 500 deliveries. Distances follow a uniform distribution, delivery times follow a normal distribution with variation by distance. Identify distance ranges that cause delays.
 
+<<<<<<< HEAD
+Unique ID: 91f2222d-25cf-40bd-9c8e-c1b95023201e
+=======
 Unique ID: 9061b9d2-6f42-4a84-89f9-2318906df119
+>>>>>>> origin/main

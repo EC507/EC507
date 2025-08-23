@@ -22,4 +22,8 @@ Title: Manufacturing Defects
 
 Description: Generate production batch data for 100 days with items produced and items defective. Defects per batch should follow a binomial distribution. Identify if defect rates are trending upward or downward.
 
+<<<<<<< HEAD
+Unique ID: 0b0006e5-9995-4ab4-a249-8699abf64ed1
+=======
 Unique ID: 78c17055-eb54-483f-851b-524a3f722454
+>>>>>>> origin/main

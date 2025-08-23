@@ -22,4 +22,8 @@ Title: Fitness Tracker Steps Analysis
 
 Description: Simulate daily step counts for 200 users over a month using normal distributions. Identify top 10% most active users and compare weekend vs weekday activity.
 
+<<<<<<< HEAD
+Unique ID: 38b5394c-bdf1-40f8-8972-3d7b2001530b
+=======
 Unique ID: 792a1f4c-2c62-4208-b484-b162e9c7011e
+>>>>>>> origin/main

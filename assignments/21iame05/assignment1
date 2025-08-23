@@ -22,4 +22,8 @@ Title: City Traffic Flow Study
 
 Description: Simulate hourly car counts at three city intersections for a week. Use Poisson distribution for car arrivals. Identify hours with unusually low or high counts compared to the daily pattern.
 
+<<<<<<< HEAD
+Unique ID: 20c4d03e-3087-41c9-8cb6-6e6aa841b991
+=======
 Unique ID: 5cd9f3e8-45aa-46ca-b76b-6408e26242f3
+>>>>>>> origin/main

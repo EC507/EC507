@@ -22,4 +22,8 @@ Title: Stock Market Daily Returns
 
 Description: Generate synthetic daily returns for 5 different stocks using normal distributions with different volatilities. Compute Sharpe ratios for each stock and identify which stock offers the best risk-adjusted return.
 
+<<<<<<< HEAD
+Unique ID: 24076470-f80e-43d3-8840-7360104feec8
+=======
 Unique ID: 9cb41b2b-fd47-4096-b402-3de02bb4be59
+>>>>>>> origin/main

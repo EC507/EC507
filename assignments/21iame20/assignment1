@@ -22,4 +22,8 @@ Title: Energy Consumption Monitoring
 
 Description: Generate hourly energy consumption data for 100 households for a week. Assume daily patterns but with random variation. Identify top 10 highest consuming households and their peak usage times.
 
+<<<<<<< HEAD
+Unique ID: a9ca8f5d-8edc-48c0-9a73-6ffe3a4e36e9
+=======
 Unique ID: 50380c97-64e4-4567-ae5f-9db3fca7da77
+>>>>>>> origin/main

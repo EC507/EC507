@@ -22,4 +22,8 @@ Title: Weather Pattern Variability
 
 Description: Simulate daily temperature data for 3 cities over 2 years using normal distributions with seasonal adjustments. Identify which city has the most unpredictable weather using variance in deviations.
 
+<<<<<<< HEAD
+Unique ID: 0ef94be6-f6f5-4c04-8100-976688072b53
+=======
 Unique ID: fe33a847-cbe5-4b95-9b60-525a13719c54
+>>>>>>> origin/main

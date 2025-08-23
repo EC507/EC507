@@ -22,4 +22,8 @@ Title: Fake Housing Market Data
 
 Description: Simulate 1000 house sales with prices, sizes, number of bedrooms, and distances to city center. Different distributions for each feature. Find strongest correlations with price.
 
+<<<<<<< HEAD
+Unique ID: f91e35ab-91c5-4f67-ac00-c30e66cb802d
+=======
 Unique ID: a15c0746-118c-4380-96d8-60e27ca500d5
+>>>>>>> origin/main

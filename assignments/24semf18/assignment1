@@ -22,4 +22,8 @@ Title: Agricultural Yield Estimation
 
 Description: Generate crop yields per hectare for 100 farms. Rainfall follows a normal distribution, yield depends on rainfall plus noise. Identify rainfall range with highest yields.
 
+<<<<<<< HEAD
+Unique ID: be0a7408-35ae-4673-83dd-8bbf44597439
+=======
 Unique ID: 784c28cb-8c7c-4f98-a54d-64e5993cf24b
+>>>>>>> origin/main

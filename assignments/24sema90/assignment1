@@ -22,4 +22,8 @@ Title: Classroom Performance Analysis
 
 Description: Simulate the marks of 50 students in 5 different subjects. Assume marks follow a normal distribution with varying means and standard deviations for each subject. Identify the top 5% of students by average marks and compare their variance in performance to the bottom 5%.
 
+<<<<<<< HEAD
+Unique ID: 4af7466b-3f90-419f-9a43-ab2d473a8bf5
+=======
 Unique ID: cab69fa9-f2e9-4a9c-9e06-0494c137d08b
+>>>>>>> origin/main

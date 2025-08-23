@@ -22,4 +22,8 @@ Title: Retail Inventory Analysis
 
 Description: Simulate daily inventory levels for 50 products. Sales per day follow a Poisson distribution. Identify products that most frequently go out of stock.
 
+<<<<<<< HEAD
+Unique ID: 7760decd-7c70-4614-a2fc-0ece063b9c19
+=======
 Unique ID: 41c172e1-ae3c-4bbc-bd4c-4144c43b98b4
+>>>>>>> origin/main
